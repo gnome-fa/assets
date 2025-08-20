@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="138"
+   height="20"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="persian-gnome.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.6449275"
+     inkscape:cx="68.291399"
+     inkscape:cy="-1.7715019"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       id="a"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         width="152"
+         height="22"
+         rx="6"
+         ry="6"
+         style="vector-effect:none;fill:#f66151;fill-opacity:1;stroke:none;stroke-width:30.9399;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <rect
+     width="138"
+     style="fill:#6633cc;stroke-width:2.11672;stop-color:#000000"
+     id="rect2"
+     x="0"
+     y="-20"
+     transform="scale(1,-1)"
+     height="20"
+     sodipodi:type="rect"
+     rx="5" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0;paint-order:markers fill stroke"
+     id="rect8"
+     width="20"
+     height="20"
+     x="0"
+     y="0"
+     ry="0"
+     rx="4.5" />
+  <g
+     clip-path="url(#a)"
+     transform="matrix(0.9079,0,0,0.9091,-39.0824,21.545426)"
+     id="g5">
+    <g
+       style="font-weight:900;font-size:11.8369px;line-height:1.25;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display, Heavy';text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:#edfdf0;fill-opacity:1;stroke-width:0.14341"
+       id="g2" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-weight:900;font-size:12px;line-height:1.3;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Heavy Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0;paint-order:markers fill stroke"
+     x="31.726147"
+     y="14.095132"
+     id="text5-7"><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:12px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Heavy';stroke-width:0"
+       x="31.726147"
+       y="14.095132"
+       id="tspan6">Persian GNOME</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-weight:900;font-size:12px;line-height:1.3;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Heavy Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#6633cc;fill-opacity:1;stroke-width:0;paint-order:markers fill stroke"
+     x="4.2669845"
+     y="13.587472"
+     id="text5"><tspan
+       sodipodi:role="line"
+       id="tspan5"
+       style="font-size:12px;fill:#6633cc;fill-opacity:1;stroke-width:0"
+       x="4.2669845"
+       y="13.587472">fa</tspan></text>
+</svg>
