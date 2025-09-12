@@ -1,8 +1,14 @@
 # GNOME Fa Assets
 
-![Persian GNOME Community Narrow Banner](/banners/persian-gnome-community-banner-narrow.png)
+![GNOME Fa Community Banner](/banners/gnome-fa-community-banner-narrow.png)
 
 This repository contains artwork, branding, and design assets for the GNOME Fa community.
+
+## Structure
+
+- `banners/` - Community banners and header images
+- `badges/` - GitHub and Telegram badges
+- `social/` - Social media preview images
 
 ## License
 
