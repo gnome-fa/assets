@@ -1,5 +1,7 @@
 # GNOME-fa Assets
 
+![Persian GNOME Community Narrow Banner](/banners/persian-gnome-community-banner-narrow.png)
+
 This repository contains artwork, branding, and design assets for the GNOME-fa community.
 
 ## License
