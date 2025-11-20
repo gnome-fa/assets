@@ -6,6 +6,7 @@ This repository contains artwork, branding, and design assets for the GNOME Fa c
 
 ## Structure
 
+- `audio/` - Theme music and audio assets
 - `banners/` - Community banners and header images
 - `badges/` - GitHub and Telegram badges
 - `social/` - Social media preview images
